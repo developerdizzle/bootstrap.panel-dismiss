@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap.panel-dismiss",
+  "main": "bootstrap.panel-dismiss.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/developerdizzle/bootstrap.panel-dismiss",
+  "authors": [
+    "dzl"
+  ],
+  "description": "Allows data-dismiss=\"panel\" markup",
+  "keywords": [
+    "bootstrap",
+    "panel",
+    "dismiss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
